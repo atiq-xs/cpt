@@ -1,0 +1,19 @@
+{
+    "name": "atiq-xs/cpt",
+    "description": "Wordpress Custom post type",
+    "type": "wp-plugin-helper",
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Md. Atiqur Rahman",
+            "email": "atiqur.su@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "XS\\CPT\\": "src/"
+        }
+    }
+}
