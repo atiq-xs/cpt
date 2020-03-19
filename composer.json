@@ -2,7 +2,7 @@
     "name": "atiq-xs/cpt",
     "description": "Wordpress Custom post type",
     "type": "wp-plugin-helper",
-    "license": "GNU General Public License v3.0",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Md. Atiqur Rahman",
